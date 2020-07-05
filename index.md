@@ -1,3 +1,7 @@
+---
+title: false
+---
+
 # Mr. Poston's Classes
 
 ## Computer Science Principles
