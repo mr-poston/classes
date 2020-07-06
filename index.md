@@ -10,3 +10,4 @@ title: Mr. Poston's Classes
 ---
 # [Computer Science 3](https://sites.google.com/g.risd.org/computer-science-3)
 *7th Period*
+---
