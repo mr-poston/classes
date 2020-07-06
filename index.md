@@ -1,5 +1,5 @@
 ---
-title: Mr. Poston's Classes 8-)
+title: Mr. Poston's Classes
 ---
 
 # [Computer Science Principles](https://sites.google.com/g.risd.org/computer-science-principles)
