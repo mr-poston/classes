@@ -14,10 +14,14 @@ title: Mr. Poston's Classes
 
 **1st, 2nd, 3rd Periods**
 
+> A bockquote for this course
+
 ---
 
 # [Computer Science 3](https://sites.google.com/g.risd.org/computer-science-3)
 
-**7th Period*
+**7th Period**
+
+> Another blockquote
 
 ---
